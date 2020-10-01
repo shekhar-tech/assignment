@@ -1,0 +1,9 @@
+values from source file are
+5
+12
+1
+4
+65
+7
+average is : 15.666667
+maximum number is :65
